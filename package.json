@@ -1,0 +1,24 @@
+{
+  "name": "angular-vk-authentications",
+  "version": "1.0.0",
+  "description": "angular vk authentications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8000 -c-1 ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ienfen/angular-vk-authentications.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ienfen/angular-vk-authentications/issues"
+  },
+  "homepage": "https://github.com/Ienfen/angular-vk-authentications#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "http-server": "^0.9.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "angular-vk-authentications",
+  "description": "angular vk authentications",
+  "main": "index.js",
+  "authors": [
+    "Ihor <vreysu@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Ienfen/angular-vk-authentications",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7"
+  }
+}
